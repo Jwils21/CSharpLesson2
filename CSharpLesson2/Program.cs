@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace CSharpLesson2 {
 	class Program {
 		static void Main(string[] args) {
+
+			//test
 		}
 	}
 }
